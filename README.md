@@ -7,7 +7,6 @@
 ---
 
 ## Introduction
-
 This winter course provides 8 lectures in one week to introduce a variety of topics in the field of neuroscience and computational neuroscience. Studies of brain functions have focused on the information processing properties of individual neurons, neural circuits and network systems. Computational neuroscience seeks to study these functions as revealed by neurophysiological experiments through computational means, and, as such, is highly interdisciplinary. Our winter school brings together experimentalists, modelers, and theoreticians to illustrate the diverse approaches and disciplines that make up computational neuroscience.
 
 The winter school is sponsored by the Chinese Neuroscience Society (Committee on Computational Neuroscience and Neural Engineering)，CSIAM Mathematical Life Sciences, the SJTU Institute of Natural Sciences, Ministry of Education-Key Lab in Scientific and Engineering Computing and the SJTU Zhiyuan College.
@@ -27,14 +26,16 @@ There is no registration fee for the winter school. All participants are respons
 
 ## Schedule
 
-|Date(GMT+8)|15-Jan|16-Jan|17-Jan|18-Jan|19-Jan|
-|-|-|-|-|-|-|
-|**Morning</br>(9:00-11:00)**||Tutorial 1:</br>Brain-inspired computation(Chongming Liu)|Huan Luo|Xin Jin|Wei Lu|
-|Language||*Chinese*|*Chinese*|*Chinese*|*Chinese*|
-|**Afternoon</br>(14:00-16:00)**|Eric Shea-Brown(13:00-15:00)|Xiaohui Zhang|Zhifeng Liang|Shangbang Gao|Tutorial 2:</br>Neuronal simulation(Jingyang Ma)|
-|Language|*English*|*Chinese*|*Chinese*|*Chinese*|*Chinese*|
-|**Evening</br>(20:00-22:00)**|Guangyu Robert Yang|Nicolas Brunel||||
-|Language|*English*|*English*||||
+|Date(GMT+8)|15-Jan|16-Jan|17-Jan|18-Jan|19-Jan|20-Jan|
+|-|-|-|-|-|-|-|
+|**Morning</br>(9:00-11:00)**|Lai-Sang Young
+(Language: English)|Tutorial 1:</br>Brain-inspired computation(Xuexing Du)|Guangyu Robert Yang
+(Language: English)| |Pengcheng Zhou|Chengyu Li|
+|**Afternoon</br>(14:00-16:00)**|Ruoyu Sun
+(Language: English)|Yunzhe Liu
+(Language: English)| | |Zigang Huang
+(Language: Chinese)|Xiao-Jing Wang
+(Language: English)|
 ## Tutorial Schedule
 
 |Topics|Date(GMT+8)|Time(GMT+8)|
