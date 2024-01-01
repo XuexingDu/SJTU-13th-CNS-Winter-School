@@ -33,10 +33,10 @@ There is no registration fee for the winter school. All participants are respons
 
 ## Tutorial Schedule
 
-<!-- |Topics|Date(GMT+8)|Time(GMT+8)|
+|Topics|Date(GMT+8)|Time(GMT+8)|
 |--|--|--|
-|Tutorial 1: Brain-inspired computation| Jan. 10, 2023 | 9:00-11:00 |
-|Tutorial 2: Neuron software tutorial| Jan. 13, 2023 | 14:00-16:00 | -->
+|Tutorial 1: Brain-inspired computation| Jan. 10, 2024 | 9:00-11:00 |
+|Tutorial 2: Neuron software tutorial| Jan. 13, 2024 | 14:00-16:00 |
 
 ---
 ## Programs
