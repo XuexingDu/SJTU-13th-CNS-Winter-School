@@ -28,9 +28,7 @@ There is no registration fee for the winter school. All participants are respons
 
 |Date(GMT+8)|15-Jan|16-Jan|17-Jan|18-Jan|19-Jan|20-Jan|
 |-|-|-|-|-|-|-|
-|**Morning</br>(9:00-11:00)**|Lai-Sang Young
-(Language: English)|Tutorial 1:</br>Brain-inspired computation(Xuexing Du)|Guangyu Robert Yang
-(Language: English)| |Pengcheng Zhou|Chengyu Li|
+|**Morning</br>(9:00-11:00)**|Lai-Sang Young(Language: English)|Tutorial 1:</br>Brain-inspired computation(Xuexing Du)|Guangyu Robert Yang(Language: English)| |Pengcheng Zhou|Chengyu Li|
 |**Afternoon</br>(14:00-16:00)**|Ruoyu Sun
 (Language: English)|Yunzhe Liu
 (Language: English)| | |Zigang Huang
