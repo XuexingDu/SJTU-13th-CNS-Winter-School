@@ -37,8 +37,39 @@ There is no registration fee for the winter school. All participants are respons
 |--|--|--|
 |Tutorial 1: Brain-inspired computation| Jan. 10, 2024 | 9:00-11:00 |
 |Tutorial 2: Neuron software tutorial| Jan. 13, 2024 | 14:00-16:00 |
-
 ---
+
+## installation
+```bash
+$ pip install brainpy -U
+```
+
+In addition, many customized operators in BrainPy are implemented in ``brainpylib``.
+Install the latest version of `brainpylib` by:
+
+```bash
+# CPU installation for Linux, macOS and Windows
+$ pip install --upgrade brainpylib
+```
+
+```bash
+# CUDA 12 installation for Linux only
+$ pip install --upgrade brainpylib-cu12x
+```
+
+```bash
+# CUDA 11 installation for Linux only
+$ pip install --upgrade brainpylib-cu11x
+```
+
+For detailed installation instructions, please refer to the documentation: [Quickstart/Installation](https://brainpy.readthedocs.io/en/latest/quickstart/installation.html)
+
+SBI
+```bash
+$ pip install sbi
+```
+
+
 ## Programs
 
 ### 神经调质系统的作用及其动力学建模
