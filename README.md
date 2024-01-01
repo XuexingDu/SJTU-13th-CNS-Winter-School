@@ -26,20 +26,17 @@ There is no registration fee for the winter school. All participants are respons
 
 ## Schedule
 
-|Date(GMT+8)|15-Jan|16-Jan|17-Jan|18-Jan|19-Jan|20-Jan|
-|-|-|-|-|-|-|-|
-|**Morning</br>(9:00-11:00)**|Lai-Sang Young(Language: English)|Tutorial 1:</br>Brain-inspired computation(Xuexing Du)|Guangyu Robert Yang(Language: English)| |Pengcheng Zhou|Chengyu Li|
-|**Afternoon</br>(14:00-16:00)**|Ruoyu Sun
-(Language: English)|Yunzhe Liu
-(Language: English)| | |Zigang Huang
-(Language: Chinese)|Xiao-Jing Wang
-(Language: English)|
+| Date (GMT+8) | 15-Jan | 16-Jan | 17-Jan | 18-Jan | 19-Jan | 20-Jan |
+|--------------|--------|--------|--------|--------|--------|--------|
+| **Morning (9:00-11:00)** | Lai-Sang Young (Language: English) | Tutorial 1: Brain-inspired computation (Xuexing Du) | Guangyu Robert Yang (Language: English) | | Pengcheng Zhou | Chengyu Li |
+| **Afternoon (14:00-16:00)** | Ruoyu Sun (Language: English) | Yunzhe Liu (Language: English) | | | Zigang Huang (Language: Chinese) | Xiao-Jing Wang (Language: English) |
+
 ## Tutorial Schedule
 
-|Topics|Date(GMT+8)|Time(GMT+8)|
+<!-- |Topics|Date(GMT+8)|Time(GMT+8)|
 |--|--|--|
 |Tutorial 1: Brain-inspired computation| Jan. 10, 2023 | 9:00-11:00 |
-|Tutorial 2: Neuron software tutorial| Jan. 13, 2023 | 14:00-16:00 |
+|Tutorial 2: Neuron software tutorial| Jan. 13, 2023 | 14:00-16:00 | -->
 
 ---
 ## Programs
