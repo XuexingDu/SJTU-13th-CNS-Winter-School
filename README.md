@@ -28,8 +28,8 @@ There is no registration fee for the winter school. All participants are respons
 
 | Date (GMT+8) | 15-Jan | 16-Jan | 17-Jan | 18-Jan | 19-Jan | 20-Jan |
 |--------------|--------|--------|--------|--------|--------|--------|
-| **Morning (9:00-11:00)** | Lai-Sang Young (Language: English) | Tutorial 1: Brain-inspired computation (Xuexing Du) | Guangyu Robert Yang (Language: English) |      | Pengcheng Zhou | Chengyu Li |
-| **Afternoon (14:00-16:00)** | Ruoyu Sun (Language: English) | Yunzhe Liu (Language: English) | | | Zigang Huang (Language: Chinese) | Xiao-Jing Wang (Language: English) |
+| **Morning (9:00-11:00)** | Lai-Sang Young (Language: English) | Tutorial 1 | Guangyu Robert Yang (Language: English) | Morning Break | Pengcheng Zhou(Language: Chinese) | Chengyu Li |
+| **Afternoon (14:00-16:00)** | Ruoyu Sun (Language: English) | Yunzhe Liu (Language: English) | Tutorial 2 | Student's Presentation | Zigang Huang (Language: Chinese) | Xiao-Jing Wang (Language: English) |
 
 ## Tutorial Schedule
 
@@ -75,6 +75,9 @@ $ pip install sbi
 
 ### 神经调质系统的作用及其动力学建模
 *by Zigang Huang, XI'AN Jiao Tong University*
+
+### Dynamic cell assembly for cognition
+*by Chengyu Li, Lingang Lab*
 
 ### Building cognitive map during learning and development
 *by Yunzhe Liu, Beijing Normal University*
