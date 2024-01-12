@@ -12,7 +12,7 @@ This winter course provides 8 lectures in one week to introduce a variety of top
 The winter school is sponsored by the Chinese Neuroscience Society (Committee on Computational Neuroscience and Neural Engineering)，CSIAM Mathematical Life Sciences, the SJTU Institute of Natural Sciences, Ministry of Education-Key Lab in Scientific and Engineering Computing and the SJTU Zhiyuan College.
 
 ## Venue
-Room 305, No. 5 Science Building, Minhang Campus, Shanghai Jiao Tong University
+Room 300, No. 5 Science Building, Minhang Campus, Shanghai Jiao Tong University
 
 
 ## Application and Registration
@@ -31,45 +31,8 @@ There is no registration fee for the winter school. All participants are respons
 | **Morning (9:00-11:00)** | Lai-Sang Young (Language: English) | Tutorial 1 | Guangyu Robert Yang (Language: English) | Student's Presentation | Pengcheng Zhou(Language: Chinese) | Chengyu Li |
 | **Afternoon (14:00-16:00)** | Ruoyu Sun (Language: English) | Yunzhe Liu (Language: English) | Tutorial 2 | Break | Zigang Huang (Language: Chinese) | Xiao-Jing Wang (Language: English) |
 
-## Tutorial Schedule
 
-|Topics|Date(GMT+8)|Time(GMT+8)|
-|--|--|--|
-|Tutorial 1: Brain-inspired computation| Jan. 10, 2024 | 9:00-11:00 |
-|Tutorial 2: Neuron software tutorial| Jan. 13, 2024 | 14:00-16:00 | 
 ---
-
-## installation
-BrainPy
-```bash
-$ pip install brainpy -U
-```
-
-In addition, many customized operators in BrainPy are implemented in ``brainpylib``.
-Install the latest version of `brainpylib` by:
-
-```bash
-# CPU installation for Linux, macOS and Windows
-$ pip install --upgrade brainpylib
-```
-
-```bash
-# CUDA 12 installation for Linux only
-$ pip install --upgrade brainpylib-cu12x
-```
-
-```bash
-# CUDA 11 installation for Linux only
-$ pip install --upgrade brainpylib-cu11x
-```
-
-For detailed installation instructions, please refer to the documentation: [Quickstart/Installation](https://brainpy.readthedocs.io/en/latest/quickstart/installation.html)
-
-SBI
-```bash
-$ pip install sbi
-```
-
 
 ## Programs
 
