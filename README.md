@@ -31,7 +31,6 @@ There is no registration fee for the winter school. All participants are respons
 | **Morning (9:00-11:00)** | Lai-Sang Young (Language: English) | Tutorial 1 | Guangyu Robert Yang (Language: English) | Student's Presentation | Pengcheng Zhou(Language: Chinese) | Chengyu Li |
 | **Afternoon (14:00-16:00)** | Ruoyu Sun (Language: English) | Yunzhe Liu (Language: English) | Tutorial 2 | Break | Zigang Huang (Language: Chinese) | Xiao-Jing Wang (Language: English) |
 
-
 ---
 
 ## Programs
