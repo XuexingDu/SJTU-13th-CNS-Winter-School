@@ -42,8 +42,3 @@ jupyter notebook
 # extra package
 # sbi installation
 pip install sbi
-# install pytorch for constructing artificial neural networks
-conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
-```
-
-If you failed to install pytorch, then try to follow the construction from [here](https://pytorch.org/get-started/locally/).
