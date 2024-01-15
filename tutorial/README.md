@@ -30,6 +30,9 @@ pip install --upgrade brainpylib-cu11x
 # Install the latest version of jaxlib(CPU):
 pip install -U "jax[cpu]"
 # Install the latest version of jaxlib(NVIDIA GPU on x86_64):
+# CUDA 11 installation
+pip install -U "jax[cuda11_pip]" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+# CUDA 12 installation
 pip install -U "jax[cuda12_pip]" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
 # install taichi
 pip install taichi==1.7.0
