@@ -18,7 +18,7 @@ conda create -n winter_school python=3.11
 # activate the new environment
 conda activate winter_school
 # install basic packages for scientific computing
-conda install -y numpy matplotlib scipy scikit-learn jupyter ipython pandas
+conda install -y numpy matplotlib scipy scikit-learn jupyter ipython pandas ipywidgets 
 # Install the latest version of BrainPy:
 pip install brainpy -U
 # CPU installation for Linux, macOS and Windows
