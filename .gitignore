@@ -14,6 +14,6 @@ config.ini
 *.jar
 
 # 不需要提交的文件
-tutorial/FI_ML.ipynb
-tutorial/HH_helper_bp.py
+# tutorial/FI_ML.ipynb
+# tutorial/HH_helper_bp.py
 # tutorial/Section4_sbi.ipynb
